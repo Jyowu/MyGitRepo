@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "foamRun.C": "cpp",
+        "surfaceNormalFixedValueFvPatchVectorField.C": "cpp",
+        "blockDescriptor.C": "cpp",
+        "blockCreate.C": "cpp",
+        "kOmegaSST.C": "cpp",
+        "kEpsilon.C": "cpp",
+        "kOmega.C": "cpp",
+        "kOmegaSSTLM.C": "cpp",
+        "kOmegaSSTBase.C": "cpp",
+        "SpalartAllmaras.C": "cpp",
+        "buoyantKEpsilon.C": "cpp",
+        "fvmodels": "cpp"
+    }
+}
