@@ -1,0 +1,6 @@
+# dynamicCode:
+# SHA1 = 1ce7d5adc0a79fa242b8a1050f1bb70fe03021f4
+
+SOURCE += codedFvModelTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libkBouyancySource_1ce7d5adc0a79fa242b8a1050f1bb70fe03021f4

@@ -1,0 +1,6 @@
+# dynamicCode:
+# SHA1 = 21425ac7e2d8fb4d06d02127075c3f4f7d809b13
+
+codedFvModelTemplate.C
+
+LIB = $(PWD)/../platforms/$(WM_OPTIONS)/lib/libkBouyancyCurvatureSource_21425ac7e2d8fb4d06d02127075c3f4f7d809b13
